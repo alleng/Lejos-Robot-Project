@@ -22,4 +22,4 @@ PROJECT DESCRIPTION:
 The objective of the project is to create a "bomb" capturing robot that can be controlled from a PC. The "bomb" is a tin can at an unknown location in a maze. The robot is controlled form another room and thus must use sensors to relay infomration about its location, surroundings and status back to its operator. Location can be determined only by tracking the robots motion's and by calculation using two light bulbs (identified by light sensor on robot). The ultrasonic sensor and "bumper" sensors on the robot are used for observing and mapping obstacles and walls.
 
 VIDEO:
-The following is a video of another team's final project submission.
+A link to a video of another team's submission will be pasted soon
