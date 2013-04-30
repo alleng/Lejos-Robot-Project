@@ -10,7 +10,9 @@ FINAL SUBMISSION FOR UC BERKELEY IEOR 140, FALL 2012
 Project specifications can be found at http://parker.ieor.berkeley.edu/ieor140/labs/Final%20Project12.htm
 
 REQUIRED HARDWARE:
+
 1) Legos Mindstorm kit with NXT brick and all sensors assembled as described and shown in the Final Project Report.
+
 2) Bluetooth ready PC.
 
 REPORT:
