@@ -4,7 +4,8 @@ Lejos-Robot-Project
 Lejos Robot Project
 
 FINAL SUBMISSION FOR UC BERKELEY IEOR 140, FALL 2012
-Written by Allen Gurdus and Victor Sacristan-Robles
+
+  Written by Allen Gurdus and Victor Sacristan-Robles
 
 Project specifications can be found at http://parker.ieor.berkeley.edu/ieor140/labs/Final%20Project12.htm
 
